@@ -1,4 +1,4 @@
-# stockmarketpredict
+# StockMarketPredict
 In this project, we will use the Python programming language along with three powerful libraries: NumPy, scikit-learn, and machine learning to create a stock market prediction model. NumPy is a library for performing scientific computing with Python, while scikit-learn is a library used for machine learning and data analysis. Machine learning is a field of artificial intelligence that allows computers to learn from data and make predictions or decisions.
 
 The stock market prediction model will be based on historical data and will use machine learning algorithms to analyze the data and make predictions about future trends in the stock market. This model will be built using a supervised learning approach, where we will train the algorithm on historical data and then use it to make predictions on new data.
